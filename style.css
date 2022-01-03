@@ -20,3 +20,7 @@ img{
     border: 3px solid yellowgreen;
 }
 
+.intro{
+    font-family: 'Courier New', Courier, monospace;
+    color: slategray;
+}
