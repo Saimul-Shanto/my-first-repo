@@ -5,9 +5,11 @@
     padding: 20px;
     text-align: justify;
     border-radius: 20px;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 .quiz h2{
     text-align: center;
+    font-family: 'Courier New', Courier, monospace;
 }
 
